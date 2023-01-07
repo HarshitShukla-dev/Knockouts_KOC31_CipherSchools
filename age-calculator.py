@@ -39,3 +39,4 @@ Day2 = monthCount[dob[1]-1] - dob[0]
 
 totalDays = totalDays_year + monthDays1 + monthDays2 + Day1 + Day2 + todayDate[0]
 print("Total days : ",totalDays)
+#end of the code
